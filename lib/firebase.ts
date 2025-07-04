@@ -8,13 +8,13 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBFuArOPczkYvXqsrSBFIDth73wbPJvdU0",
-  authDomain: "capgeminismartprojectbuilder.firebaseapp.com",
-  projectId: "capgeminismartprojectbuilder",
-  storageBucket: "capgeminismartprojectbuilder.firebasestorage.app",
-  messagingSenderId: "233198799797",
-  appId: "1:233198799797:web:98eb23f215308ba65367fc",
-  measurementId: "G-RS75TE6SE4"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
